@@ -146,6 +146,13 @@ body {
   padding: 0.2rem;
 }
 
+.left-table tbody tr:nth-child(9) td:nth-child(6),
+.left-table tbody tr:nth-child(9) td:nth-child(9),
+.left-table tbody tr:nth-child(9) td:nth-child(10),
+.left-table tbody tr:nth-child(9) td:nth-child(11) {
+  color: red;
+}
+
 .right {
   width: 30%;
   display: grid;
